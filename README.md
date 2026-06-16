@@ -27,3 +27,5 @@ make && ./game
 ```
 
 ---
+
+[![Demo](https://www.youtube.com/watch?v=3xitre-uxGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3xitre-uxGc)

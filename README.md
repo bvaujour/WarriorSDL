@@ -28,4 +28,4 @@ make && ./game
 
 ---
 
-[![Demo](https://www.youtube.com/watch?v=3xitre-uxGc/maxresdefault.jpg)](https://www.youtube.com/watch?v=3xitre-uxGc)
+[![Demo](preview.avif)](https://www.youtube.com/watch?v=3xitre-uxGc)
